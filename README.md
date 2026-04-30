@@ -28,6 +28,12 @@ The lab environment was built using **VirtualBox**, with Kali Linux as the attac
 | Network Type     | Host-Only Network       |
 | Scanner Tool     | Nmap                    |
 
+## 🖥 Network Diagram
+
+The following diagram represents the cybersecurity lab setup used in this project.
+
+![Network Diagram](screenshots/network_diagram.png)
+
 ---
 
 ## 🔍 Scanning Activities Performed
